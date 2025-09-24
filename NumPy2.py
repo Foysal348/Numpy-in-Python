@@ -1,0 +1,10 @@
+list=[2,3,5,6,87,1,0]
+print(list)
+print(type(list))
+print(list[0])
+print(list[1])
+print(list[2])
+print(list[3])
+print(list[4])
+print(list[5])
+print(list[6])
